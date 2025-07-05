@@ -1,0 +1,15 @@
+@media (max-width: 721px) {
+
+    body {
+        height: 85vh;
+    }
+
+    body>h1 {
+        font-size: 3vmax;
+    }
+
+    .container {
+        width: 70%;
+    }
+
+}
